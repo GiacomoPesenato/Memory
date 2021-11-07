@@ -12,9 +12,8 @@ html::-webkit-scrollbar{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     background-size: 400% 400%;
-    background: linear-gradient(to bottom, #fdfc47, #24fe41);
+    background: linear-gradient(to top, #233329, #166d3b);
 
 
 }
@@ -28,7 +27,7 @@ html::-webkit-scrollbar{
     background-size: 400% 400%;
     color: #ffffff;
     border: solid;
-    background: linear-gradient(120deg, #fdfc47, #24fe41);
+    background: linear-gradient(180deg, #233329,#166d3b);
 
 
 }
@@ -42,8 +41,8 @@ html::-webkit-scrollbar{
     align-items: center;
     justify-content: center;
     font-family: "Century Gothic", sans-serif;
-    font-size: 1.5rem;
-    color: #3a243b;
+    font-size: 2rem;
+    color: #CC5500;
     font-weight: bold;
 }
 #titolo{
@@ -53,8 +52,8 @@ html::-webkit-scrollbar{
     align-items: center;
     align-self: center;
     font-family: "Century Gothic", sans-serif;
-    font-size: 2.0rem;
-    color: #3a243b;
+    font-size: 2.5rem;
+    color: #CC5500;
     font-weight: bold;
 }
 img{
